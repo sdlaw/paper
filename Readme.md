@@ -6,7 +6,7 @@ This paper discusses the economic outcomes of hard Brexit
 
 ## Step 1
 
-This is a new stap 1
+This is a new step 1
 
 ## Step 2
 
