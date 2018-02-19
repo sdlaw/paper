@@ -3,3 +3,7 @@
 ## Introduction
 
 This paper discusses the economic outcomes of hard Brexit
+
+## Conclusion
+
+For all scenarios the outcome was disastrous
