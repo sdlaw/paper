@@ -4,9 +4,10 @@
 
 This paper discusses the economic outcomes of hard Brexit
 
-## Background
 
-The government doesn't have a clue what they are doing so this research will pull together the current research
+## Step 2
+
+This is step 2
 
 ## Conclusion
 
